@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushka-0422
-- 👀 I’m aspiring java developer 
-- 🌱 I’m  a college student 
-- 💞️ I’m looking for the more resources related to java and python.
+- 👀 Aspiring java developer 
+- 🌱 A college student 
+- 💞️ Looking for the more resources related to java and python.
 - 📫 How to reach me linkedin or email 
 - 😄 Pronouns: she/her
 
