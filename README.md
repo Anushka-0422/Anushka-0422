@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anushka-0422
-- 👀 Aspiring java developer 
+- 👀 Aspiring Software developer 
 - 🌱 A college student 
 - 💞️ Looking for the more resources related to java and python.
 - 📫 How to reach me linkedin or email 
