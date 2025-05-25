@@ -2,15 +2,13 @@
 ### A passionate Software Developer!!
 
 **Profile views**  
-![Profile views](https://komarev.com/ghpvc/?username=prajakta25mhetre)
+![Profile views](https://github.com/Anushka-0422)
 
 - 🌱 I’m currently learning **Java, Python**  
-- 👩‍💻 All of my projects are available at [My GitHub](https://github.com/prajakta25mhetre)  
-- 📬 How to reach me: **prajaktamhetre61@gmail.com**  
-- ⚡ Fun fact: Computers communicate through 0's and 1's
+- 👩‍💻 All of my projects are available at [My GitHub](https://github.com/Anushka-0422)  
+- 📬 How to reach me: **anushka50699@gmail.com**
 
 ---
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your-profile/)  
