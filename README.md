@@ -48,9 +48,9 @@
 
 ## GitHub Stats
 
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushka-04227&show_icons=true&theme=radical)
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushka-0422&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-04227&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical)
 
 ---
 
