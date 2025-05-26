@@ -1,17 +1,17 @@
 # Hi 👋, I'm Anushka Bhosale
 
-### Aspiring Software Developer!!
-## Full Stack Developement 
-# Web Development 
+## Aspiring Software Developer!!
+### Full Stack Developement 
+### Web Development 
 
 ---
 
 **Profile views**  
-![Profile views](https://komarev.com/ghpvc/?username=Anushka-04227&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Anushka-0422&color=blue)
 
 - 🌱 I’m currently learning **Bootstrap** **React**  **DSA**
 - 👩‍💻 All of my projects and programmes are available on [**My GitHub**]
-(https://github.com/Anushka-04227)
+(https://github.com/Anushka-0422)
 - 📫 How to reach me: **anushka50699@gmail.com**
 
 ---
@@ -19,6 +19,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkabhosale17)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anu_shka_17) 
 
 ---
 
