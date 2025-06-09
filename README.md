@@ -103,13 +103,13 @@
 <a href="https://github.com/Anushka-0422" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-90eebf?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/anushkabhosale" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/anushkasr2m/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-90eebf?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/>
 </a>
 <a href="https://www.codechef.com/users/anu_shka_17" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-90eebf?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef"/>
 </a>
-<a href="https://leetcode.com/anushkabhosale" target="_blank">
+<a href="https://leetcode.com/u/Anushka_0422/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-90eebf?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 </div>
