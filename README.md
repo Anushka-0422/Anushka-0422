@@ -3,23 +3,18 @@
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Himani+Gohil+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Anushka+Bhosale+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 </h1>
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
-<h3 align="center" style="color:#90eebf;">👩‍💻 Full Stack Developer | 🌏 India | Web Development| DSA </h3>
+<h3 align="center" style="color:#90eebf;">👩‍💻 Aspiring Full Stack Developer | 🌏 India | Web Development| DSA </h3>
 
 <div align="center" style="color:#90eebf;">
   
-💻 I’m a <strong>Full Stack Developer</strong> passionate about crafting beautiful web applications using the <strong>MERN stack</strong><br>
+💻 I’m a <strong>Aspiring Full Stack Developer</strong> passionate about web development.<br>
   
-✨ Let's build something defferent.!<br>
+✨ Let's build something different.!<br>
 
 📫 Reach me at: <strong>anushka50699@gmail.com</strong>
 
@@ -32,29 +27,30 @@
 </p>
 
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-</div>
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Java-90eebf?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-90eebf?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-90eebf?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-90eebf?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-90eebf?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/Git-90eebf?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-90eebf?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-90eebf?style=for-the-badge&logo=visualstudiocode&logoColor=black" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PyCharm-90eebf?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/Spring%20Tool%20Suite-90eebf?style=for-the-badge&logo=spring&logoColor=black" alt="Spring Tool Suite"/>
+<img src="https://img.shields.io/badge/Canva-90eebf?style=for-the-badge&logo=canva&logoColor=black" alt="Canva"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-90eebf?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-90eebf?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 ### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=AnushkaBhosale&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnushkaBhosale&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
@@ -64,7 +60,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 <div align="center">
 <picture>
@@ -93,7 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaBhosale&theme=dracula&bg_color=0d1117&color=90eebf&line=90eebf&point=90eebf&hide_border=true" alt="GitHub Repository Activity Graph"/>
 </div>
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
@@ -117,13 +111,11 @@
 <a href="https://leetcode.com/anushkabhosale" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-90eebf?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-  
 </div>
 <br>
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 <div align="center">
   <a href="#top">
