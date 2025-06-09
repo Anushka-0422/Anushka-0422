@@ -53,9 +53,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnushkaBhosale&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnushkaBhosale&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical)
 
 <img src="https://streak-stats.demolab.com/?user=AnushkaBhosale&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
 
@@ -95,7 +93,7 @@
 ### 💌 <span style="color:#90eebf;">Let's Connect!</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/anushka-bhosale" target="_blank">
+<a href="https://www.linkedin.com/in/anushkabhosale17" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href=anushka50699@gmail.com">
@@ -107,7 +105,7 @@
 <a href="https://auth.geeksforgeeks.org/user/anushkabhosale" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-90eebf?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks"/>
 </a>
-<a href="https://www.codechef.com/users/anushkabhosale" target="_blank">
+<a href="https://www.codechef.com/users/anu_shka_17" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-90eebf?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef"/>
 </a>
 <a href="https://leetcode.com/anushkabhosale" target="_blank">
