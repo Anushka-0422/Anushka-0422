@@ -55,6 +55,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnushkaBhosale&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src="https://streak-stats.demolab.com/?user=AnushkaBhosale&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
 
 </div>
