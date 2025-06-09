@@ -1,5 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
+<p align="center">
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/coding.gif" width="600" alt="Coding animation"/>
+</p>
+
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
 
