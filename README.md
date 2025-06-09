@@ -1,9 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
-<p align="center">
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/coding.gif" width="600" alt="Coding animation"/>
-</p>
-
 <h1 align="center" style="font-family: 'Roboto Slab'; color: #90eebf;">
 <a href="https://readme-typing-svg.demolab.com">
 
@@ -57,10 +53,11 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnushkaBhosale&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical)
 
 <img src="https://streak-stats.demolab.com/?user=AnushkaBhosale&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
-
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -100,7 +97,7 @@
 <a href="https://www.linkedin.com/in/anushkabhosale17" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-90eebf?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
-<a href=anushka50699@gmail.com">
+<a href="anushka50699@gmail.com">
   <img src="https://img.shields.io/badge/Email-90eebf?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 <a href="https://github.com/Anushka-0422" target="_blank">
