@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Canva-90eebf?style=for-the-badge&logo=canva&logoColor=black" alt="Canva"/>
 <img src="https://img.shields.io/badge/Node.js-90eebf?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-90eebf?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Postman-90eebf?style=for-the-badge&logo=postman&logoColor=black" alt="Postman"/>
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-90eebf?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
