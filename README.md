@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/PyCharm-90eebf?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm"/>
 <img src="https://img.shields.io/badge/Spring%20Tool%20Suite-90eebf?style=for-the-badge&logo=spring&logoColor=black" alt="Spring Tool Suite"/>
 <img src="https://img.shields.io/badge/Canva-90eebf?style=for-the-badge&logo=canva&logoColor=black" alt="Canva"/>
+<img src="https://img.shields.io/badge/Node.js-90eebf?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-90eebf?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-90eebf?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
