@@ -48,13 +48,15 @@
 ### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnushkaBhosale&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Anushka-0422&show_icons=true&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=synthwave&hide_border=true&title_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200"/>
 
-<img src="https://streak-stats.demolab.com/?user=AnushkaBhosale&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200" width="420"/>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=Anushka-0422&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200"/>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
