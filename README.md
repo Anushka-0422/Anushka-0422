@@ -50,13 +50,13 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Anushka-0422&show_icons=true&theme=synthwave&hide_border=true&title_color=90eebf&icon_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="GitHub Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anushka-0422&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=synthwave&hide_border=true&title_color=90eebf&text_color=90eebf&bg_color=0d1117" alt="Top Languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical" alt="Top Languages" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Anushka-0422&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=Anushka-0422&theme=radical" alt="GitHub Streak Stats" />
 
 </div>
 
