@@ -45,23 +45,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 📊 GitHub Stats ✨
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Anushka-0422&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-0422&layout=compact&theme=radical" alt="Top Languages" />
-
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Anushka-0422&theme=radical" alt="GitHub Streak Stats" />
-
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <div align="center">
 <picture>
   <source
