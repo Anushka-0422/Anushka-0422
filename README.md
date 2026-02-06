@@ -8,7 +8,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2aHlpeGk4M2F4aml3ZHhxZjJ4M2FrOGxia3JvMzcweHlwZ2ZkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2aHlpeGk4M2F4aml3ZHhxZjJ4M2FrOGxia3JvMzcweHlwZ2ZkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="center" />
 
 <h3 align="center" style="color:#90eebf;">👩‍💻 Aspiring Full Stack Developer | 🌏 India | Web Development| DSA </h3>
 
