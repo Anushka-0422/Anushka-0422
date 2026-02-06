@@ -45,7 +45,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 📊 <span style="color:#90eebf;">GitHub Stats:</span> ✨
+### 📊 GitHub Stats ✨
 
 <div align="center">
 
@@ -57,6 +57,7 @@
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=Anushka-0422&theme=neon-dark&hide_border=true&stroke=90eebf&ring=90eebf&fire=90eebf&currStreakLabel=90eebf" alt="GitHub Streak Stats" height="200"/>
+
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
